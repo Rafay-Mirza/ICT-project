@@ -12,4 +12,4 @@ This project is a **Movies Website** developed using **HTML, CSS, and JavaScript
 
 ## Live Site URL
 
-Live Website:
+Live Website: https://rafay-mirza.github.io/ICT-project/
